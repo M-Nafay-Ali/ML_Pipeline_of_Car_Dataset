@@ -17,7 +17,7 @@ Investigated the financial impact of different fuel types on resale values.
 
 Feature Engineering:
 Calculated a custom feature (car_age) to isolate and study vehicle depreciation patterns.
-Constructed a Correlation Matrix Heatmap to identify relationships among features. Discovered that chronological age (correlation of -0.29) has a stronger impact on price drops than raw mileage (-0.12).
+Constructed a Correlation Matrix Heatmap to identify relationships among features. Discovered that chronological age (correlation of -0.29) has a stronger impact on price drops than raw mileage (0.12).
 
 
 Data Pipeline & Encoding:
@@ -28,12 +28,12 @@ Segmented data into independent Training (80%) and Testing (20%) datasets to ens
 Model Training & Comparison:
 Evaluated multiple advanced regression algorithms side-by-side to find the optimal solution:
 Decision Tree Regressor
-Random Forest Regressor (Achieved the lowest Mean Absolute Error of ~180,432 Rupees)
-XGBoost Regressor (Achieved the highest R^2 Score of 0.2023)
+Random Forest Regressor (Achieved the lowest Mean Absolute Error of 180,432 Rupees)
+XGBoost Regressor (Achieved the highest R² Score of 0.2023)
 
 
 📈 Key Insights
-Diesel Premium: Diesel vehicles command a significantly higher resale baseline average (~509K) compared to Petrol alternatives (~324K) in this dataset, driven by engine durability and inclusion in premium SUV segments.
+Diesel Premium: Diesel vehicles command a significantly higher resale baseline average (509K) compared to Petrol alternatives (324K) in this dataset, driven by engine durability and inclusion in premium SUV segments.
 Non-Linear Depreciation: Tree-based ensemble models vastly outperformed simple linear constraints, effectively capturing the nuanced, non-linear ways cars lose value over time.
 
 

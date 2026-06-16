@@ -45,3 +45,5 @@ Platform: Kaggle Notebooks
 Contact:-
 Gmail:-englandengland271@gmail.com
 LinkedIn:-[https://www.linkedin.com/in/mohammed-nafay-ali-16519138a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
+Streamlit web:-[https://mlpipelineofcardataset-6zcwtm2lamlvacdfw5g7iz.streamlit.app/]

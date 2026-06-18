@@ -29,6 +29,6 @@ The final preprocessed pipeline was evaluated against multiple advanced tree-bas
 
 ## 📩 Contact & Connect
 * **Email:** englandengland271@gmail.com
-* **LinkedIn:** [Mohamed Nafay Ali](https://www.linkedin.com/in/mohammed-nafay-ali-18519130a)
+* **LinkedIn:** [Mohamed Nafay Ali](https://www.linkedin.com/in/mohammed-nafay-ali-16519138a)
 * 
 
